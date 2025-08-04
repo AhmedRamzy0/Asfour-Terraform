@@ -1,0 +1,15 @@
+vpc-cidr = "192.0.0.0/16"
+SAP_Private_Subnet_QAS_cidr = "192.0.5.0/24"
+SAP_Public_2_cidr = "192.0.8.0/24"
+SAP_Private_Subnet_SOLMGR_cidr = "192.0.3.0/24"
+Firewall_Subnet_public_cidr = "192.0.1.0/24"
+Firewall_private_Subnet = "192.0.10.0/24"
+CR-SUB-11 = "192.0.11.0/24"
+sap-dev-2 = "192.0.16.0/24"
+sap-prv-dev = "192.0.4.0/24"
+sap-prv-prddb = "192.0.7.0/24"
+sap-prv-prdapp = "192.0.6.0/24"
+region = "eu-west-1"
+destination_cidrs = ["0.0.0.0/0", "172.16.16.0/21"]
+Bucket_name = "cr-asfour-test"
+
